@@ -7,9 +7,9 @@ import "fmt"
 func main() {
 
 	var gs geodistance.GeoStruct
-	gs.SrcLatitude = 60.567
+	gs.SrcLatitude = 63.567
 	gs.SrcLongitude = 19.011
-	gs.TgtLatitude = 61.123
+	gs.TgtLatitude = 64.123
 	gs.TgtLongitude = 20.789
 
 	fmt.Println("\nGiven latitude and longitude positions:")
