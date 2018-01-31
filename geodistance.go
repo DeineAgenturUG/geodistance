@@ -45,7 +45,6 @@ const defaultPrecision int = 0
 
 // PointStruct takes input positions given in degrees, minutes and seconds
 // and a Position string that is one of {"North"|"East"|"South"|"West""}.
-// If quiteErrorOutput is set to true error messages is suppressed.
 type PointStruct struct {
 	Position string
 	Degrees  float64
