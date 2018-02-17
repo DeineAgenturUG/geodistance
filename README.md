@@ -1,6 +1,7 @@
 # geodistance
 
 [![Build Status](https://travis-ci.org/berrak/geodistance.svg?branch=master)](https://travis-ci.org/berrak/geodistance)
+[![Coverage Status](https://coveralls.io/repos/github/berrak/geodistance/badge.svg?branch=master)](https://coveralls.io/github/berrak/geodistance?branch=master)
 
 The geodistance package calculates various distances measured along the surface of the earth.
 
